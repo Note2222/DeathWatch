@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a13da25eaebf0743ad3de97e8aeaa03, type: 3}
+  m_Name: Testmin
+  m_EditorClassIdentifier: 
+  Pikmintospawn: {fileID: 3020994555003197447, guid: 0410a2444e3d44f42aa96a7d615dd1cd, type: 3}
+  PikminDamage: 1
+  PikminStructureCoeff: 1
+  PikminJumpHeight: 2
+  PikminMoveSpeed: 4
+  PikminCarryWeight: 2
+  ResourceCount: 
+  ResourceID: []
+  PikminUIImage: {fileID: 6178945639269708124, guid: 644808d6d9655224e890b38395274b93, type: 3}
